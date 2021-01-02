@@ -111,7 +111,7 @@ paginate = 5
     # Dark mode as default
     # User preferences (site/system settings) will still have priority over it
     # The default is false
-    isDark = true
+    isDark = false
 
     # Disable the use of system settings (prefers-color-scheme)
     # The default is false
